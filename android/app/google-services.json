@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "777289691478",
+    "firebase_url": "https://radio-online-518b4.firebaseio.com",
+    "project_id": "radio-online-518b4",
+    "storage_bucket": "radio-online-518b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777289691478:android:7f05e3df008eb4538766f7",
+        "android_client_info": {
+          "package_name": "com.app.radioonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777289691478-pas8a9fd75gur1bh9kar244837fn4cu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAds2qR9wo_cm-gdHq8xDbzFnsaCvp8X2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777289691478-pas8a9fd75gur1bh9kar244837fn4cu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777289691478-38va43b185hlossmvj6egd15mcio5am8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.radioonline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

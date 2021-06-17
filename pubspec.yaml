@@ -1,0 +1,45 @@
+name: radio_app
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  carousel_slider: ^3.0.0
+  http: 0.13.2
+  sliding_up_panel: ^2.0.0+1
+  sqflite: ^2.0.0+3
+  share: 2.0.1
+  flutter_webview_plugin: 0.3.11
+  firebase_messaging: 10.0.0
+  app_review: 2.1.1+1
+  flutter_local_notifications: 5.0.0+4
+  path_provider: 2.0.1
+  shared_preferences: ^2.0.5
+  audio_service: ^0.17.0
+  just_audio: ^0.7.4+1
+  admob_flutter: 1.0.1
+    #path: ./admob_flutter
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/image/
+    - assets/Favorites.db
